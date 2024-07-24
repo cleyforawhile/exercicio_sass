@@ -1,0 +1,8 @@
+ @use 'cores';
+
+
+body {
+    background-color: cores.$corPrincipal;
+    color: cores.$corDoTexto;
+    display: flex;
+}
